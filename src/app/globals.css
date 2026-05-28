@@ -11,6 +11,9 @@
 }
 
 html {
+  --calcite-panel-heading-text-color: #7393B3 !important;
+  --calcite-shell-panel-background-color: #7393B3  !important;
+  --calcite-action-bar-background-color: #7393B3 !important;
   height: 100%;
 }
 
